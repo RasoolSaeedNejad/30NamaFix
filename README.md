@@ -16,7 +16,7 @@ The program alerts the user with a warning message whenever it encounters this p
 
         git clone https://github.com/RasoolSaeedNejad/30NamaFix.git
 
-*  If you do not need the source and just want to download the executable file, use this link: [Download 30NamaFix_Setup_v1.0]()
+*  If you do not need the source and just want to download the executable file, use this link: [Download 30NamaFix_Setup_v1.0.0](https://github.com/RasoolSaeedNejad/30NamaFix/releases/tag/v1.0.0)
 
 ---
 ## How to Use:
